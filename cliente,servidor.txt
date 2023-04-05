@@ -1,0 +1,11 @@
+pedir credenciales
+
+mensaje de un cliente acabe en el otro cliente, no en el servidor
+
+cada uno de los clientes tengan un frame
+
+gestión de login
+
+sincronía entre los clientes y el servidor
+
+que el servidor esté en una maquina y los clientes esten en dos maquinas diferentes

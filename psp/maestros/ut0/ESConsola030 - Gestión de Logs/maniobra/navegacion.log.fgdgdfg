@@ -1,0 +1,5 @@
+2021-09-22 19:19:03,315   TRACE - Esto es un trace
+2021-09-22 19:19:03,316   WARN  - Esto es un warning
+2021-09-22 19:19:03,316   ERROR - Esto es un error
+2021-09-22 19:19:03,316   FATAL - Esto es un fatal
+2021-09-22 19:19:03,316   INFO  - Esto es un info

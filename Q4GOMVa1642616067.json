@@ -1,0 +1,5221 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 165.015,
+        "median": 191.25,
+        "standardDeviation": 25325.4,
+        "kurtosis": -1.60145,
+        "skewness": -0.505318,
+        "entropy": 0.624355
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 84.1928,
+        "median": 0,
+        "standardDeviation": 30819.5,
+        "kurtosis": -1.47836,
+        "skewness": 0.722257,
+        "entropy": 0.915098
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 202.017,
+        "median": 255,
+        "standardDeviation": 20250.9,
+        "kurtosis": -0.688435,
+        "skewness": -0.983189,
+        "entropy": 0.527441
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 192.188,
+        "median": 255,
+        "standardDeviation": 23298.1,
+        "kurtosis": -1.26674,
+        "skewness": -0.799655,
+        "entropy": 0.527441
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 181.664,
+        "median": 255,
+        "standardDeviation": 26933,
+        "kurtosis": -1.42837,
+        "skewness": -0.741077,
+        "entropy": 0.527441
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a8a64cb2f6781abb725d1472ad9fc592139c6befed11d0903678edaf55c638e0"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "453778B",
+    "userTime": "0.190u",
+    "elapsedTime": "0:01.193",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 240,
+      "height": 104,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 99840,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 148.503,
+        "median": 191.25,
+        "standardDeviation": 25538.2,
+        "kurtosis": -1.69666,
+        "skewness": -0.115375,
+        "entropy": 0.828513
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.779,
+        "median": 0,
+        "standardDeviation": 31952,
+        "kurtosis": -1.79314,
+        "skewness": -0.454893,
+        "entropy": 0.964218
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 167.421,
+        "median": 255,
+        "standardDeviation": 20139.7,
+        "kurtosis": -1.23753,
+        "skewness": -0.190579,
+        "entropy": 0.783278
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 147.434,
+        "median": 255,
+        "standardDeviation": 22875.8,
+        "kurtosis": -1.68379,
+        "skewness": 0.243677,
+        "entropy": 0.783278
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 123.378,
+        "median": 255,
+        "standardDeviation": 27185.2,
+        "kurtosis": -1.78409,
+        "skewness": 0.41692,
+        "entropy": 0.783278
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 24,
+      "y": 120
+    },
+    "originGeometry": "+24+120",
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "98928c185a5d13c5b58abbb45d7852f45fd16409f56d5c56948c6c52e5a41dfd"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "24960",
+    "pixelsPerSecond": "108049B",
+    "userTime": "0.240u",
+    "elapsedTime": "0:01.231",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 164.411,
+        "median": 191.25,
+        "standardDeviation": 26115,
+        "kurtosis": -1.62259,
+        "skewness": -0.504224,
+        "entropy": 0.631039
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 91.1779,
+        "median": 0,
+        "standardDeviation": 31409.9,
+        "kurtosis": -1.64673,
+        "skewness": 0.594378,
+        "entropy": 0.940639
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 196.419,
+        "median": 255,
+        "standardDeviation": 22133.1,
+        "kurtosis": -0.762567,
+        "skewness": -0.976616,
+        "entropy": 0.53155
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 187.86,
+        "median": 255,
+        "standardDeviation": 24533.6,
+        "kurtosis": -1.29314,
+        "skewness": -0.788816,
+        "entropy": 0.53155
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 182.186,
+        "median": 255,
+        "standardDeviation": 26383.3,
+        "kurtosis": -1.35303,
+        "skewness": -0.761137,
+        "entropy": 0.520417
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 2,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "7be8ae7f32025eef40ec33815e349ec1c3a4ca184bda9cbd60200fbb5b301e8e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "340398B",
+    "userTime": "0.260u",
+    "elapsedTime": "0:01.257",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 156.341,
+        "median": 191.25,
+        "standardDeviation": 26904.1,
+        "kurtosis": -1.70029,
+        "skewness": -0.323892,
+        "entropy": 0.725469
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 127.64,
+        "median": 0,
+        "standardDeviation": 32767.7,
+        "kurtosis": -2.00002,
+        "skewness": -0.00219134,
+        "entropy": 0.999999
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 176.893,
+        "median": 255,
+        "standardDeviation": 22671.5,
+        "kurtosis": -1.35899,
+        "skewness": -0.511772,
+        "entropy": 0.637489
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 164.906,
+        "median": 255,
+        "standardDeviation": 25003.1,
+        "kurtosis": -1.77994,
+        "skewness": -0.278992,
+        "entropy": 0.637489
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 155.925,
+        "median": 255,
+        "standardDeviation": 27174.2,
+        "kurtosis": -1.82978,
+        "skewness": -0.236961,
+        "entropy": 0.626897
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 3,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "993f707c3b2cc6f38b330af6160639ad469604d016a1727283ee4a26965bef95"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "300162B",
+    "userTime": "0.310u",
+    "elapsedTime": "0:01.291",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 156.399,
+        "median": 191.25,
+        "standardDeviation": 26539,
+        "kurtosis": -1.64711,
+        "skewness": -0.334974,
+        "entropy": 0.758278
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 137.186,
+        "median": 0,
+        "standardDeviation": 32673,
+        "kurtosis": -1.9768,
+        "skewness": -0.152373,
+        "entropy": 0.995833
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 173.983,
+        "median": 255,
+        "standardDeviation": 22406,
+        "kurtosis": -1.35589,
+        "skewness": -0.476504,
+        "entropy": 0.679456
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 161.706,
+        "median": 255,
+        "standardDeviation": 24563.3,
+        "kurtosis": -1.718,
+        "skewness": -0.245881,
+        "entropy": 0.679456
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 152.72,
+        "median": 255,
+        "standardDeviation": 26513.6,
+        "kurtosis": -1.76062,
+        "skewness": -0.192976,
+        "entropy": 0.678369
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 4,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "91c5566c002d0e69e9113a4ae3eaf0c0c39733c2b473fae85d0cf7f90b585770"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "267590B",
+    "userTime": "0.340u",
+    "elapsedTime": "0:01.327",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.446,
+        "median": 191.25,
+        "standardDeviation": 26522.7,
+        "kurtosis": -1.65521,
+        "skewness": -0.31459,
+        "entropy": 0.776347
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 141.749,
+        "median": 0,
+        "standardDeviation": 32562.4,
+        "kurtosis": -1.94943,
+        "skewness": -0.224926,
+        "entropy": 0.990971
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.633,
+        "median": 255,
+        "standardDeviation": 22546.2,
+        "kurtosis": -1.36623,
+        "skewness": -0.45483,
+        "entropy": 0.707159
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 158.535,
+        "median": 255,
+        "standardDeviation": 24621,
+        "kurtosis": -1.73408,
+        "skewness": -0.190493,
+        "entropy": 0.707159
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 149.868,
+        "median": 255,
+        "standardDeviation": 26361.2,
+        "kurtosis": -1.77242,
+        "skewness": -0.130863,
+        "entropy": 0.700097
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 5,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "fee89b659668443b3aed513e57b0c61b3a061fc49540f84b66ec0968f4019527"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "241709B",
+    "userTime": "0.380u",
+    "elapsedTime": "0:01.362",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 6,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "220110B",
+    "userTime": "0.420u",
+    "elapsedTime": "0:01.398",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 7,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "202807B",
+    "userTime": "0.460u",
+    "elapsedTime": "0:01.432",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 8,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "188219B",
+    "userTime": "0.500u",
+    "elapsedTime": "0:01.465",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.185,
+        "median": 191.25,
+        "standardDeviation": 26385.4,
+        "kurtosis": -1.64564,
+        "skewness": -0.309453,
+        "entropy": 0.781298
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.568,
+        "median": 0,
+        "standardDeviation": 32437,
+        "kurtosis": -1.91805,
+        "skewness": -0.286303,
+        "entropy": 0.985465
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.066,
+        "median": 255,
+        "standardDeviation": 22493.3,
+        "kurtosis": -1.37131,
+        "skewness": -0.431948,
+        "entropy": 0.714832
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.981,
+        "median": 255,
+        "standardDeviation": 24454.9,
+        "kurtosis": -1.72467,
+        "skewness": -0.16388,
+        "entropy": 0.714832
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.125,
+        "median": 255,
+        "standardDeviation": 26156.3,
+        "kurtosis": -1.76068,
+        "skewness": -0.0994852,
+        "entropy": 0.710062
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 9,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "c28c715fda303293f5af535f81f31cfb0b84d484b6c6c7a5c88bd1b9a43a7f60"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "175373B",
+    "userTime": "0.540u",
+    "elapsedTime": "0:01.499",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 10,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "164252B",
+    "userTime": "0.570u",
+    "elapsedTime": "0:01.533",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 11,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "154160B",
+    "userTime": "0.610u",
+    "elapsedTime": "0:01.568",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 12,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "144951B",
+    "userTime": "0.660u",
+    "elapsedTime": "0:01.604",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.185,
+        "median": 191.25,
+        "standardDeviation": 26385.4,
+        "kurtosis": -1.64564,
+        "skewness": -0.309453,
+        "entropy": 0.781298
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.568,
+        "median": 0,
+        "standardDeviation": 32437,
+        "kurtosis": -1.91805,
+        "skewness": -0.286303,
+        "entropy": 0.985465
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.066,
+        "median": 255,
+        "standardDeviation": 22493.3,
+        "kurtosis": -1.37131,
+        "skewness": -0.431948,
+        "entropy": 0.714832
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.981,
+        "median": 255,
+        "standardDeviation": 24454.9,
+        "kurtosis": -1.72467,
+        "skewness": -0.16388,
+        "entropy": 0.714832
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.125,
+        "median": 255,
+        "standardDeviation": 26156.3,
+        "kurtosis": -1.76068,
+        "skewness": -0.0994852,
+        "entropy": 0.710062
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 13,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "c28c715fda303293f5af535f81f31cfb0b84d484b6c6c7a5c88bd1b9a43a7f60"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "136330B",
+    "userTime": "0.700u",
+    "elapsedTime": "0:01.642",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 14,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "129099B",
+    "userTime": "0.740u",
+    "elapsedTime": "0:01.678",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 15,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "122771B",
+    "userTime": "0.770u",
+    "elapsedTime": "0:01.713",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 16,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "117143B",
+    "userTime": "0.820u",
+    "elapsedTime": "0:01.747",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.185,
+        "median": 191.25,
+        "standardDeviation": 26385.4,
+        "kurtosis": -1.64564,
+        "skewness": -0.309453,
+        "entropy": 0.781298
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.568,
+        "median": 0,
+        "standardDeviation": 32437,
+        "kurtosis": -1.91805,
+        "skewness": -0.286303,
+        "entropy": 0.985465
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.066,
+        "median": 255,
+        "standardDeviation": 22493.3,
+        "kurtosis": -1.37131,
+        "skewness": -0.431948,
+        "entropy": 0.714832
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.981,
+        "median": 255,
+        "standardDeviation": 24454.9,
+        "kurtosis": -1.72467,
+        "skewness": -0.16388,
+        "entropy": 0.714832
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.125,
+        "median": 255,
+        "standardDeviation": 26156.3,
+        "kurtosis": -1.76068,
+        "skewness": -0.0994852,
+        "entropy": 0.710062
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 17,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "c28c715fda303293f5af535f81f31cfb0b84d484b6c6c7a5c88bd1b9a43a7f60"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "111850B",
+    "userTime": "0.860u",
+    "elapsedTime": "0:01.783",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 18,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "106954B",
+    "userTime": "0.900u",
+    "elapsedTime": "0:01.819",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 19,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "102535B",
+    "userTime": "0.930u",
+    "elapsedTime": "0:01.854",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 20,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "98545B",
+    "userTime": "0.970u",
+    "elapsedTime": "0:01.889",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.185,
+        "median": 191.25,
+        "standardDeviation": 26385.4,
+        "kurtosis": -1.64564,
+        "skewness": -0.309453,
+        "entropy": 0.781298
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.568,
+        "median": 0,
+        "standardDeviation": 32437,
+        "kurtosis": -1.91805,
+        "skewness": -0.286303,
+        "entropy": 0.985465
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.066,
+        "median": 255,
+        "standardDeviation": 22493.3,
+        "kurtosis": -1.37131,
+        "skewness": -0.431948,
+        "entropy": 0.714832
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.981,
+        "median": 255,
+        "standardDeviation": 24454.9,
+        "kurtosis": -1.72467,
+        "skewness": -0.16388,
+        "entropy": 0.714832
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.125,
+        "median": 255,
+        "standardDeviation": 26156.3,
+        "kurtosis": -1.76068,
+        "skewness": -0.0994852,
+        "entropy": 0.710062
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 21,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "c28c715fda303293f5af535f81f31cfb0b84d484b6c6c7a5c88bd1b9a43a7f60"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "94896B",
+    "userTime": "1.020u",
+    "elapsedTime": "0:01.923",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 22,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "91425B",
+    "userTime": "1.050u",
+    "elapsedTime": "0:01.958",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 23,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "88199B",
+    "userTime": "1.100u",
+    "elapsedTime": "0:01.993",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 24,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "85174B",
+    "userTime": "1.120u",
+    "elapsedTime": "0:02.028",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.185,
+        "median": 191.25,
+        "standardDeviation": 26385.4,
+        "kurtosis": -1.64564,
+        "skewness": -0.309453,
+        "entropy": 0.781298
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.568,
+        "median": 0,
+        "standardDeviation": 32437,
+        "kurtosis": -1.91805,
+        "skewness": -0.286303,
+        "entropy": 0.985465
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.066,
+        "median": 255,
+        "standardDeviation": 22493.3,
+        "kurtosis": -1.37131,
+        "skewness": -0.431948,
+        "entropy": 0.714832
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.981,
+        "median": 255,
+        "standardDeviation": 24454.9,
+        "kurtosis": -1.72467,
+        "skewness": -0.16388,
+        "entropy": 0.714832
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.125,
+        "median": 255,
+        "standardDeviation": 26156.3,
+        "kurtosis": -1.76068,
+        "skewness": -0.0994852,
+        "entropy": 0.710062
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 25,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "c28c715fda303293f5af535f81f31cfb0b84d484b6c6c7a5c88bd1b9a43a7f60"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "82377B",
+    "userTime": "1.170u",
+    "elapsedTime": "0:02.063",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.522,
+        "median": 191.25,
+        "standardDeviation": 26375.1,
+        "kurtosis": -1.6416,
+        "skewness": -0.316835,
+        "entropy": 0.782576
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.916,
+        "median": 0,
+        "standardDeviation": 32460.5,
+        "kurtosis": -1.92397,
+        "skewness": -0.275772,
+        "entropy": 0.986499
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.927,
+        "median": 255,
+        "standardDeviation": 22422.3,
+        "kurtosis": -1.35342,
+        "skewness": -0.4492,
+        "entropy": 0.7166
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.572,
+        "median": 255,
+        "standardDeviation": 24449.6,
+        "kurtosis": -1.72189,
+        "skewness": -0.174922,
+        "entropy": 0.7166
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.673,
+        "median": 255,
+        "standardDeviation": 26168,
+        "kurtosis": -1.76009,
+        "skewness": -0.109779,
+        "entropy": 0.710603
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 26,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "f1c54334390632f4f4f8d7bb065f00f4dbe01806a9257527630ae92f92ca746d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "79590B",
+    "userTime": "1.220u",
+    "elapsedTime": "0:02.100",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.538,
+        "median": 191.25,
+        "standardDeviation": 26394.3,
+        "kurtosis": -1.64204,
+        "skewness": -0.318096,
+        "entropy": 0.78134
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 144.637,
+        "median": 0,
+        "standardDeviation": 32470.4,
+        "kurtosis": -1.92644,
+        "skewness": -0.271266,
+        "entropy": 0.98693
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 171.035,
+        "median": 255,
+        "standardDeviation": 22434.2,
+        "kurtosis": -1.35582,
+        "skewness": -0.450865,
+        "entropy": 0.714803
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.675,
+        "median": 255,
+        "standardDeviation": 24478,
+        "kurtosis": -1.72115,
+        "skewness": -0.179235,
+        "entropy": 0.714803
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.807,
+        "median": 255,
+        "standardDeviation": 26194.9,
+        "kurtosis": -1.75853,
+        "skewness": -0.114644,
+        "entropy": 0.708825
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 27,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "a14939b2579577f9d8e232b31bd2bad76bae7a071f22e0f5568622d01de1ff69"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "77028B",
+    "userTime": "1.250u",
+    "elapsedTime": "0:02.137",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.443,
+        "median": 191.25,
+        "standardDeviation": 26376.7,
+        "kurtosis": -1.64129,
+        "skewness": -0.315904,
+        "entropy": 0.781858
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.289,
+        "median": 0,
+        "standardDeviation": 32447.2,
+        "kurtosis": -1.92062,
+        "skewness": -0.281787,
+        "entropy": 0.985913
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.561,
+        "median": 255,
+        "standardDeviation": 22476.2,
+        "kurtosis": -1.35804,
+        "skewness": -0.446457,
+        "entropy": 0.715816
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.335,
+        "median": 255,
+        "standardDeviation": 24457.4,
+        "kurtosis": -1.71937,
+        "skewness": -0.17352,
+        "entropy": 0.715816
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.589,
+        "median": 255,
+        "standardDeviation": 26126,
+        "kurtosis": -1.75614,
+        "skewness": -0.10772,
+        "entropy": 0.709888
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 28,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "50c73f11ea661ba71301f45a1f65e7ec23054cb206e4ff0bb98e70d6549999e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "74574B",
+    "userTime": "1.300u",
+    "elapsedTime": "0:02.174",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 155.156,
+        "median": 191.25,
+        "standardDeviation": 26382.3,
+        "kurtosis": -1.64561,
+        "skewness": -0.308848,
+        "entropy": 0.781539
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 145.801,
+        "median": 0,
+        "standardDeviation": 32428.4,
+        "kurtosis": -1.91588,
+        "skewness": -0.29007,
+        "entropy": 0.985087
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 169.918,
+        "median": 255,
+        "standardDeviation": 22506.3,
+        "kurtosis": -1.37272,
+        "skewness": -0.430313,
+        "entropy": 0.715295
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 156.863,
+        "median": 255,
+        "standardDeviation": 24453.6,
+        "kurtosis": -1.72444,
+        "skewness": -0.162169,
+        "entropy": 0.715295
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 148.043,
+        "median": 255,
+        "standardDeviation": 26141,
+        "kurtosis": -1.75999,
+        "skewness": -0.097577,
+        "entropy": 0.710482
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "15x100",
+    "iterations": 0,
+    "scene": 29,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "ef44a7d7d25d982efe6964e27a951c3b923a39b6de60320ed0b7e5ac6fa16f8c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "72219B",
+    "userTime": "1.330u",
+    "elapsedTime": "0:02.213",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 156.341,
+        "median": 191.25,
+        "standardDeviation": 26904.1,
+        "kurtosis": -1.70029,
+        "skewness": -0.323892,
+        "entropy": 0.725469
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 127.64,
+        "median": 0,
+        "standardDeviation": 32767.7,
+        "kurtosis": -2.00002,
+        "skewness": -0.00219134,
+        "entropy": 0.999999
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 176.893,
+        "median": 255,
+        "standardDeviation": 22671.5,
+        "kurtosis": -1.35899,
+        "skewness": -0.511772,
+        "entropy": 0.637489
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 164.906,
+        "median": 255,
+        "standardDeviation": 25003.1,
+        "kurtosis": -1.77994,
+        "skewness": -0.278992,
+        "entropy": 0.637489
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 155.925,
+        "median": 255,
+        "standardDeviation": 27174.2,
+        "kurtosis": -1.82978,
+        "skewness": -0.236961,
+        "entropy": 0.626897
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 30,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "993f707c3b2cc6f38b330af6160639ad469604d016a1727283ee4a26965bef95"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "70164B",
+    "userTime": "1.370u",
+    "elapsedTime": "0:02.248",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 151.587,
+        "median": 191.25,
+        "standardDeviation": 27585.4,
+        "kurtosis": -1.79296,
+        "skewness": -0.223218,
+        "entropy": 0.723089
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 129.689,
+        "median": 0,
+        "standardDeviation": 32762.9,
+        "kurtosis": -1.99884,
+        "skewness": -0.0343361,
+        "entropy": 0.999787
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 170.782,
+        "median": 255,
+        "standardDeviation": 23319.9,
+        "kurtosis": -1.57629,
+        "skewness": -0.344818,
+        "entropy": 0.634105
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 157.883,
+        "median": 255,
+        "standardDeviation": 25923.8,
+        "kurtosis": -1.89638,
+        "skewness": -0.142803,
+        "entropy": 0.634105
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 147.995,
+        "median": 255,
+        "standardDeviation": 28334.9,
+        "kurtosis": -1.92926,
+        "skewness": -0.113728,
+        "entropy": 0.62436
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 31,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "bc1496407ac9dc94113235b1e3f87695fb361bed95c24e6ebc277939356ff1b3"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "68252B",
+    "userTime": "1.410u",
+    "elapsedTime": "0:02.283",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 142.921,
+        "median": 191.25,
+        "standardDeviation": 27467.2,
+        "kurtosis": -1.84179,
+        "skewness": -0.0443891,
+        "entropy": 0.773618
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 154.462,
+        "median": 0,
+        "standardDeviation": 32026.6,
+        "kurtosis": -1.81278,
+        "skewness": -0.432715,
+        "entropy": 0.967497
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 154.541,
+        "median": 255,
+        "standardDeviation": 23200.3,
+        "kurtosis": -1.68791,
+        "skewness": 0.015039,
+        "entropy": 0.71203
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 137.796,
+        "median": 255,
+        "standardDeviation": 26026.1,
+        "kurtosis": -1.87531,
+        "skewness": 0.233586,
+        "entropy": 0.71203
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 124.886,
+        "median": 255,
+        "standardDeviation": 28615.8,
+        "kurtosis": -1.88601,
+        "skewness": 0.26628,
+        "entropy": 0.702914
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 32,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "647d474a3a40c78b736e7113d9796913a018377f98cc35a10554756ba6f35d19"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "66465B",
+    "userTime": "1.450u",
+    "elapsedTime": "0:02.318",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 164.982,
+        "median": 191.25,
+        "standardDeviation": 25336.3,
+        "kurtosis": -1.60248,
+        "skewness": -0.504815,
+        "entropy": 0.623801
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 84.1928,
+        "median": 0,
+        "standardDeviation": 30819.5,
+        "kurtosis": -1.47836,
+        "skewness": 0.722257,
+        "entropy": 0.915098
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 202.006,
+        "median": 255,
+        "standardDeviation": 20254.2,
+        "kurtosis": -0.690227,
+        "skewness": -0.98277,
+        "entropy": 0.526702
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 192.143,
+        "median": 255,
+        "standardDeviation": 23314.4,
+        "kurtosis": -1.26724,
+        "skewness": -0.799529,
+        "entropy": 0.526702
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 181.586,
+        "median": 255,
+        "standardDeviation": 26957,
+        "kurtosis": -1.43024,
+        "skewness": -0.740252,
+        "entropy": 0.526702
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 33,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "d1b82604fe674bb7c046d991f1fe286db80713833c3aeb921264c3d5c9946923"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "64791B",
+    "userTime": "1.490u",
+    "elapsedTime": "0:02.352",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 350464,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 162.22,
+        "median": 191.25,
+        "standardDeviation": 25913.2,
+        "kurtosis": -1.64777,
+        "skewness": -0.441164,
+        "entropy": 0.659268
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 93.8787,
+        "median": 0,
+        "standardDeviation": 31607.9,
+        "kurtosis": -1.7011,
+        "skewness": 0.546734,
+        "entropy": 0.949243
+      },
+      "red": {
+        "min": 27,
+        "max": 255,
+        "mean": 196.43,
+        "median": 255,
+        "standardDeviation": 20630,
+        "kurtosis": -0.992801,
+        "skewness": -0.813126,
+        "entropy": 0.56261
+      },
+      "green": {
+        "min": 33,
+        "max": 255,
+        "mean": 185.285,
+        "median": 255,
+        "standardDeviation": 23802.4,
+        "kurtosis": -1.51233,
+        "skewness": -0.626765,
+        "entropy": 0.56261
+      },
+      "blue": {
+        "min": 12,
+        "max": 255,
+        "mean": 173.286,
+        "median": 255,
+        "standardDeviation": 27612.4,
+        "kurtosis": -1.6556,
+        "skewness": -0.566956,
+        "entropy": 0.56261
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "10x100",
+    "iterations": 0,
+    "scene": 34,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "67689e7e61eefcc713ff89e991d10cbf3275d54b0504c932f9466eb476d318f5"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "87616",
+    "pixelsPerSecond": "63249B",
+    "userTime": "1.530u",
+    "elapsedTime": "0:02.385",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Q4GOMVa.gif",
+    "baseName": "Q4GOMVa.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 1,
+      "height": 1,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "Bilevel",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 1,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 1,
+      "green": 1,
+      "blue": 1
+    },
+    "pixels": 4,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 191.25,
+        "median": 191.25,
+        "standardDeviation": 0,
+        "kurtosis": -1.6875,
+        "skewness": -0.75,
+        "entropy": 0
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "median": 0,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "red": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "median": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "green": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "median": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      },
+      "blue": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "median": 255,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 0,
+        "entropy": 0
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 16,
+    "colormap": [
+      "#1B212CFF","#67421BFF","#44240CFF","#998A7DFF","#C4B09FFF",
+      "#A9643EFF","#8D3C2CFF","#94632BFF","#DCD8C5FF","#F4F3EEFF",
+      "#A17631FF","#3B455FFF","#5D626EFF","#FFFFFF00","#000000FF",
+      "#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "GIF",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 296,
+      "height": 296,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "100x100",
+    "iterations": 0,
+    "scene": 35,
+    "scenes": 36,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-01-19T18:14:25+00:00",
+      "date:modify": "2022-01-19T18:14:25+00:00",
+      "signature": "66aa5265fb25a9151e9b998b2153e6a19358611fed4e7bdc7b0885ef36ca04de"
+    },
+    "tainted": false,
+    "filesize": "174602B",
+    "numberPixels": "1",
+    "pixelsPerSecond": "1B",
+    "userTime": "1.570u",
+    "elapsedTime": "0:02.417",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

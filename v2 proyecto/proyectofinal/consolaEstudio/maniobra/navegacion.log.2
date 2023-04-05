@@ -1,0 +1,69 @@
+2021-12-02 03:30:16,891   TRACE - Ha entrado en la opción de ver todos los Videojuegos
+2021-12-02 03:30:28,900   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 03:30:48,185   TRACE - Insercion de videojuego
+2021-12-02 03:30:54,486   TRACE - Ha vuelto al menu principal
+2021-12-02 03:30:56,378   TRACE - Ha entrado en la Gestión de Estudios
+2021-12-02 03:30:58,820   TRACE - Ha entrado en la opción de leer 1 estudio
+2021-12-02 03:31:06,920   TRACE - Ha entrado en la opción de leer todos los estudios
+2021-12-02 03:56:22,396   TRACE - Ha entrado en la Gestión de Estudios
+2021-12-02 03:57:37,791   TRACE - Ha entrado en la Gestión de Estudios
+2021-12-02 03:57:46,333   TRACE - Ha entrado en la opción de leer todos los estudios
+2021-12-02 04:03:10,208   TRACE - Ha entrado en la Gestión de Estudios
+2021-12-02 04:03:13,123   TRACE - Ha entrado en la opción de leer todos los estudios
+2021-12-02 04:04:34,366   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 04:04:46,846   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:23:03,912   TRACE - Ha iniciado el programa
+2021-12-02 12:23:08,544   TRACE - Ha entrado en la Gestión de Estudios
+2021-12-02 12:23:12,459   TRACE - Ha entrado en la opción de crear Estudio
+2021-12-02 12:23:45,601   ERROR - ExcepcionEstudio: codigoError=1, mensajeErrorBD=ORA-00001: unique constraint (ESTUDIO.SYS_C007015) violated
+ORA-06512: at "ESTUDIO.INSERTARESTUDIO", line 6
+, mensajeErrorUsuario=El nombre del estudio y el email no se pueden repetir, sentenciaSQL=call insertarESTUDIO(?,?)
+2021-12-02 12:23:54,916   TRACE - Ha entrado en la opción de crear Estudio
+2021-12-02 12:27:45,308   ERROR - ExcepcionEstudio: codigoError=1, mensajeErrorBD=ORA-00001: unique constraint (ESTUDIO.SYS_C007016) violated
+ORA-06512: at "ESTUDIO.INSERTARESTUDIO", line 6
+, mensajeErrorUsuario=El nombre del estudio y el email no se pueden repetir, sentenciaSQL=call insertarESTUDIO(?,?)
+2021-12-02 12:27:51,906   TRACE - Ha entrado en la opción de eliminar Estudio
+2021-12-02 12:28:11,419   ERROR - ExcepcionEstudio: codigoError=2292, mensajeErrorBD=ORA-02292: integrity constraint (ESTUDIO.FK_ESTUDIO_ID) violated - child record found
+, mensajeErrorUsuario=No se puede eliminar el estudio porque tiene videojuegos asociados, sentenciaSQL=delete from ESTUDIO where ESTUDIO_ID=17
+2021-12-02 12:28:24,046   TRACE - Ha entrado en la opción de modificar Estudio
+2021-12-02 12:31:44,559   TRACE - Actualización del estudio
+2021-12-02 12:33:40,964   TRACE - Ha entrado en la opción de modificar Estudio
+2021-12-02 12:34:00,250   ERROR - ExcepcionEstudio: codigoError=1407, mensajeErrorBD=ORA-01407: cannot update ("ESTUDIO"."ESTUDIO"."NOMBRE_ESTUDIO") to NULL
+, mensajeErrorUsuario=Todos los campos son obligatorios, sentenciaSQL=UPDATE ESTUDIO SET NOMBRE_ESTUDIO = ?,EMAIL = ? WHERE ESTUDIO_ID = ?
+2021-12-02 12:34:06,991   TRACE - Ha entrado en la opción de modificar Estudio
+2021-12-02 12:35:28,649   ERROR - ExcepcionEstudio: codigoError=1, mensajeErrorBD=ORA-00001: unique constraint (ESTUDIO.SYS_C007015) violated
+, mensajeErrorUsuario=El nombre y el email del  no se puede repetir, sentenciaSQL=UPDATE ESTUDIO SET NOMBRE_ESTUDIO = ?,EMAIL = ? WHERE ESTUDIO_ID = ?
+2021-12-02 12:35:37,097   TRACE - Ha entrado en la opción de leer todos los estudios
+2021-12-02 12:35:43,931   TRACE - Ha entrado en la opción de leer 1 estudio
+2021-12-02 12:35:53,574   TRACE - Ha entrado vuelto al menu principal
+2021-12-02 12:35:53,575   TRACE - Ha iniciado el programa
+2021-12-02 12:36:06,909   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 12:36:11,543   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:36:31,820   TRACE - Insercion de videojuego
+2021-12-02 12:42:09,388   TRACE - Ha iniciado el programa
+2021-12-02 12:42:12,976   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 12:42:14,950   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:42:44,828   TRACE - Insercion de videojuego
+2021-12-02 12:46:57,511   TRACE - Ha iniciado el programa
+2021-12-02 12:46:59,135   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 12:46:59,956   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:47:34,929   ERROR - ExcepcionEstudio: codigoError=1400, mensajeErrorBD=ORA-01400: cannot insert NULL into ("ESTUDIO"."VIDEOJUEGO"."VERSION_ACTUAL")
+, mensajeErrorUsuario=El nombre del videojuego, el identificador del estudio, el genero, el precio de salida y la versión son obligatorias, sentenciaSQL=insert into VIDEOJUEGO(videojuego_id,nombre_videojuego,estudio_id,genero,precio_salida,precio_actual,version_actual)values(seq_videojuego.nextval,?,?,?,?,?,?)
+2021-12-02 12:47:39,045   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:50:01,920   TRACE - Insercion de videojuego
+2021-12-02 12:50:04,760   TRACE - Ha vuelto al menu principal
+2021-12-02 12:50:04,760   TRACE - Ha iniciado el programa
+2021-12-02 12:50:06,137   TRACE - Ha salido del programa
+2021-12-02 12:50:10,611   TRACE - Ha iniciado el programa
+2021-12-02 12:50:12,240   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 12:50:12,992   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:51:08,161   TRACE - Insercion de videojuego
+2021-12-02 12:51:09,722   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:51:24,356   TRACE - Insercion de videojuego
+2021-12-02 12:51:26,301   TRACE - Ha vuelto al menu principal
+2021-12-02 12:51:26,301   TRACE - Ha iniciado el programa
+2021-12-02 12:51:26,868   TRACE - Ha salido del programa
+2021-12-02 12:51:33,859   TRACE - Ha iniciado el programa
+2021-12-02 12:51:39,977   TRACE - Ha entrado en la Gestión de Videojuegos
+2021-12-02 12:51:41,276   TRACE - Ha entrado en la opción de insertar un nuevo Videojuego
+2021-12-02 12:56:52,010   TRACE - Ha iniciado el programa

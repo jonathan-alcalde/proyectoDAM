@@ -1,0 +1,12 @@
+Crear, gestionar y finalizar de forma ordenada y correcta un programa Java haciendo uso 2 servicios.
+Cada servicio dispondrá de 2 hilos internamente en ejecución. La taare recorrerá las letras de la A a la Z, siendo estas mostradas por pantalla
+identificando el servicio y el hilo que la muestra
+
+Crear un programa Java que simule el centro de emergencias de una ciudad: un usuario cliente llama al servidor centralizado, el cual se encuentra siempre accesible para cualquier petición escuchando en el mismo puerto 1112. EL cliente explica mediante 
+una cadena de caracteres  cual es su emergencia y desde el servidor se comprueba que servicio necesitara la siguiente tabla explica a que servicio derivara la llamada
+
+bomberos 1091
+policia 1092
+hospital 1093 
+ 
+default policia

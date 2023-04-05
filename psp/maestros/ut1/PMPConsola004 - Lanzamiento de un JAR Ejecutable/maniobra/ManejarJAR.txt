@@ -1,0 +1,5 @@
+Crear un jar ejecutable:
+jar cmf manifiesto.txt saludo.jar Saludo.class
+
+Ejecutar un jar ejecutable:
+java -jar saludo.jar
